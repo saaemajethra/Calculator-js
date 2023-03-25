@@ -1,0 +1,36 @@
+.text-center {
+    text-align: center;
+}
+.bg-red {
+    background: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width: 30vw;
+} 
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction:column;
+}
+.items-center{
+   align-items: center; 
+}
+.f-white{
+    color: white;
+}
+.bold{
+    font-size: 18px;
+}
+.bg-grey{
+    background-color: grey;
+}
+@media screen and (max-width:912px){
+    .bold{
+        font-size:12px;
+    }
+    
+}
